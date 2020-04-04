@@ -1,5 +1,5 @@
 # Discord.js Commando v10 TR
-[Destek sunucusu](https://simsek.cf/destek)
+[Destek sunucusu](https://simsekbot.com/destek)
 
 ## Bilgi
 Bu modül, [discord.js-commando](https://www.npmjs.com/package/discord.js-commando) modülünün yaklaşık olarak Türkçe'ye çevrilmiş hâlidir.
